@@ -1,0 +1,11 @@
+job_id,title,description
+1,Data Scientist,"Looking for a data scientist proficient in Python, scikit-learn, SQL, and machine learning model deployment. Knowledge of NLP and model evaluation is a plus."
+2,Machine Learning Engineer,"Experience in TensorFlow, PyTorch, and building scalable ML pipelines. Strong understanding of deep learning and model optimization techniques."
+3,AI Researcher,"PhD or MSc in AI-related field. Research in transformers, LLMs, GANs, and deep reinforcement learning. Publication track record is desirable."
+4,Backend Developer,"Expert in Node.js, Express, MongoDB, REST APIs, and JWT authentication. Familiarity with microservices architecture and Docker is essential."
+5,Data Analyst,"Strong Excel and Power BI skills. Able to analyze large datasets, create dashboards, and present business insights effectively."
+6,NLP Engineer,"Develop NLP models using spaCy, NLTK, and Hugging Face. Should understand BERT, sentiment analysis, topic modeling, and embeddings."
+7,DevOps Engineer,"Experience with CI/CD, Docker, Kubernetes, AWS/GCP, monitoring tools. Scripting in Bash or Python is required."
+8,Cloud Data Engineer,"Skilled in BigQuery, AWS S3, Spark, and data warehousing. Build ETL pipelines and ensure high-performance data processing."
+9,Full Stack Developer,"Proficient in React.js, Node.js, MongoDB, and RESTful APIs. Able to build scalable frontend-backend integrated systems."
+10,Computer Vision Engineer,"Experience with OpenCV, image segmentation, object detection, CNNs, and deploying vision models on edge devices."
